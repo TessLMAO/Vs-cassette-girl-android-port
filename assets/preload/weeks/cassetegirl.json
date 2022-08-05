@@ -1,0 +1,44 @@
+{
+	"storyName": "Cassete Girl",
+	"hideFreeplay": false,
+	"weekBackground": "cgstage",
+	"difficulties":"hard",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"ukiyo",
+			"cg",
+			[
+				81,
+				78,
+				115
+			]
+		],
+		[
+			"earworm",
+			"cg",
+			[
+				81,
+				78,
+				115
+			]
+		],
+		[
+			"machina",
+			"cg",
+			[
+				81,
+				78,
+				115
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "cassetegirl"
+}

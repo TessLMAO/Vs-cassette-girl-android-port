@@ -1,0 +1,42 @@
+{
+	"songs": [
+		[
+			"Soda Groove",
+			"cg",
+			[
+				81,
+				78,
+				115
+			]
+		],
+		[
+			"City funk",
+			"cg",
+			[
+				81,
+				78,
+				115
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "cgstage",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Cassete Girl Bonus",
+	"weekName": "cassetegirl",
+	"freeplayColor": 
+	[
+	    81,
+	    78,
+	    115
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

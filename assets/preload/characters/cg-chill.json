@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				122,
+				-125
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "chill",
+			"indices": [],
+			"name": "cassettegirl-chill"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cassettegirl-chill",
+	"position": [
+	    122,
+		-125
+	],
+	"healthicon": "cg",
+	"flip_x": false,
+	"healthbar_colors": [
+		63,
+		62,
+		89
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
